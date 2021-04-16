@@ -1,2 +1,3 @@
+include ':Library_PermissionX'
 include ':app'
 rootProject.name = "MySDK_PermissionX"
